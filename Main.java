@@ -2,7 +2,7 @@ Class Main
 {
 public static void main(String args[])
 {
-int a=10;
+int a=20;
 <<<<<<< HEAD
 <<<<<<< HEAD
 int b=3;
